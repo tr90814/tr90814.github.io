@@ -1,0 +1,2 @@
+import{d as o,P as t,_ as r,U as e}from"./q-30263e9d.js";const n=`footer{font-family:monospace}
+`,s=n,i=()=>(o(t(()=>r(()=>Promise.resolve().then(()=>_),void 0),"s_hjVZiqtdGRA")),e("footer",{children:["If you'd like to get in touch, feel free to drop me a message me on ",e("a",{href:"https://www.linkedin.com/in/trogers3/",children:"LinkedIn."})]})),_=Object.freeze(Object.defineProperty({__proto__:null,s_hjVZiqtdGRA:s,s_gytQY3Tt2No:i},Symbol.toStringTag,{value:"Module"}));export{i as s_gytQY3Tt2No,s as s_hjVZiqtdGRA};
