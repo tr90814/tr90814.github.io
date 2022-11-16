@@ -12,7 +12,7 @@ export default extendConfig(baseConfig, () => {
     },
     plugins: [
       staticAdaptor({
-        origin: 'https://tomrgs.co.uk',
+        origin: 'https://tr90814.github.io',
       }),
     ],
   };
