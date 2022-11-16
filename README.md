@@ -1,1 +1,1 @@
-Personal site using [Qwik](https://qwik.builder.io/), **[tomrgs.co.uk](tomrgs.co.uk)**
+Personal site using [Qwik](https://qwik.builder.io/) - **[tomrgs.co.uk](tomrgs.co.uk)**
