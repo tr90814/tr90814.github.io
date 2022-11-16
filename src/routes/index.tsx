@@ -4,6 +4,7 @@ import type { DocumentHead } from '@builder.io/qwik-city';
 export default component$(() => {
   return (
     <>
+      <img className='profile-image' src='/images/tom.png' alt='Tom Rogers'/>
       <h1>Tom Rogers</h1>
 
       <p>
