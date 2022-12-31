@@ -6,7 +6,7 @@ export default component$(() => {
 
   return (
     <footer>
-      If you'd like to get in touch, either email me at <a href="mailto:hi@tomrgs.co.uk">hi@tomrgs.co.uk</a> or message me on <a href="https://www.linkedin.com/in/trogers3/">LinkedIn.</a>
+      If you'd like to get in touch, either email <a href="mailto:hi@tomrgs.co.uk">hi@tomrgs.co.uk</a> or message me on <a href="https://www.linkedin.com/in/trogers3/">LinkedIn.</a>
     </footer>
   );
 });
