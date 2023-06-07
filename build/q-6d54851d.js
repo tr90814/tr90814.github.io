@@ -1,0 +1,1 @@
+import{U as e}from"./q-20633a9b.js";const a=()=>e("header",{children:e("div",{className:"profile-image-container",children:e("img",{className:"profile-image",src:"/images/tom.png",alt:"Tom Rogers"})})});export{a as s_B39nypGuGl0};
