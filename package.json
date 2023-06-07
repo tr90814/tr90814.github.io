@@ -1,6 +1,6 @@
 {
-  "name": "my-qwik-docs-starter",
-  "description": "Basic start point to build a docs site with Qwik",
+  "name": "tomrgs.co.uk",
+  "description": "Personal site",
   "engines": {
     "node": ">=15.0.0"
   },
