@@ -8,7 +8,7 @@ export default component$(() => {
     <>
       <h1 className="current-role__name">Tom Rogers</h1>
       <h4 className="current-role__role">
-        <code>CTO</code> <a href="https://roostrent.com">@Roost</a>
+        <code>CTO</code> <a href="https://joinstead.com">@Stead</a>
       </h4>
     </>
   );
