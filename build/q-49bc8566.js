@@ -1,0 +1,1 @@
+import{A as o,P as t,_ as e}from"./q-6c9ea7dd.js";const s=o(t(()=>e(()=>import("./q-493dcc71.js"),["build/q-493dcc71.js","build/q-6c9ea7dd.js"]),"s_0ca7oZc0XsM")),a={title:"Tom Rogers"};export{s as default,a as head};
