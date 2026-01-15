@@ -8,7 +8,7 @@ export default component$(() => {
     <>
       <h1 className="current-role__name">Tom Rogers</h1>
       <h4 className="current-role__role">
-        <code>Engineering Lead | Onboarding, KYC & Spend Controls</code> <a href="https://pleo.io">@Pleo</a>
+        <code>Engineering Lead</code> <a href="https://pleo.io">@Pleo</a>
       </h4>
     </>
   );
